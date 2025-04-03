@@ -10,8 +10,8 @@
     <p>- 👯 I’m looking to collaborate on <b>Hackathons and Projects</b> </p>
     <p>- 💬 Ask me about <b>Python, HTML and CSS</b> </p>
     <p>- ⚡ Fun fact: <b>I like Dinos (quite obvious)</b> </p>
-    <p>- 📫 How to reach me: **kherahimanshu255@gmail.com** </p>
-    <p>- Or via Linkedin: **www.linkedin.com/in/himanshu-khera-9923291a8** </p>
+    <p>- 📫 How to reach me: kherahimanshu255@gmail.com </p>
+    <p>- Or via Linkedin: www.linkedin.com/in/himanshu-khera-9923291a8 </p>
 
 </div>
     
