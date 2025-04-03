@@ -4,7 +4,7 @@
 
 <div align="center">
     <h3>Hey There!</h3>
-    <h3>I am Himanshu Khera, your Tech Guy $$</h3> 
+    <h2>I am Himanshu Khera, your Tech Guy $$</h2> 
     <h3>🔭</h3> <br>
     <p>- 🌱 I’m currently learning <b>DSA in C++, Data Science and ML</b> </p>
     <p>- 👯 I’m looking to collaborate on <b>Hackathons and Projects</b> </p>
