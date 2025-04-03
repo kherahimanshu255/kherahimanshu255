@@ -4,7 +4,7 @@
 
 <div align="center">
     <h3>Hey There!</h3>
-    <h3>I am Himanshu Khera, your Tech Guy $$</h3>
+    <h2 color:#ff0000>I am Himanshu Khera, your Tech Guy $$</h2>
 
 <!--
 **kherahimanshu255/kherahimanshu255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
