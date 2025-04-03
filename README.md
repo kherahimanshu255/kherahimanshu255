@@ -4,12 +4,13 @@
 
 <div align="center">
     <h3>Hey There!</h3>
-    <h2>I am Himanshu Khera, your Tech Guy $$</h2>
+    <h2>I am Himanshu Khera, your Tech Guy $$</h2> <br>
     <p>- 🌱 I’m currently learning <b>DSA in C++, Data Science and ML</b> </p>
     <p>- 👯 I’m looking to collaborate on <b>Hackathons and Projects</b> </p>
     <p>- 💬 Ask me about <b>Python, HTML and CSS</b> </p>
     <p>- ⚡ Fun fact: <b>I like Dinos (quite obvious)</b> </p>
-    <br>
+
+</div>
     
 <!--
 **kherahimanshu255/kherahimanshu255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
