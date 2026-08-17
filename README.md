@@ -1,31 +1,13 @@
-<div align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxmaTVnd244dHoxdmI4aXBuMW53dmQ0Y3czNTRxbnIxZ2d1ZTFsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pJ8mmDr58CB02yHNkW/giphy.gif" alt="GIF" >
-</div>
+<!-- Contribution Graph Pac-Man -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kherahimanshu255/kherahimanshu255/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kherahimanshu255/kherahimanshu255/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kherahimanshu255/kherahimanshu255/output/pacman-contribution-graph.svg">
+</picture>
 
+<!-- Animated Intro -->
 <div align="center">
-    <h3>Hey There!</h3>
-    <h2>I am Himanshu Khera, your Tech Guy $$</h2> 
-    <h3>🔭</h3> <br>
-    <p>- 🌱 I’m currently expanding my knowledge in <b>VLSI</b> </p>
-    <p>- 👯 I’m looking to collaborate on <b>Hackathons and Projects</b> </p>
-    <p>- 💬 Ask me about <b>Python, Verilog and Testbenches</b> </p>
-    <p>- ⚡ Fun fact: <b>I like Dinos (quite obvious)</b> </p>
-    <p>- 📫 How to reach me: kherahimanshu255@gmail.com </p>
-    <p>- Or via Linkedin: www.linkedin.com/in/himanshu-khera-9923291a8 </p>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F71A&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Himanshu+Khera;Exploring+data.+Finding+patterns.+Solving+problems.+🚀)](https://git.io/typing-svg)
 
 </div>
-    
-<!--
-**kherahimanshu255/kherahimanshu255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-
-- 🤔 I’m looking for help with ...
-
-
-- 😄 Pronouns: ...
-
--->
