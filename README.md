@@ -1,9 +1,8 @@
+<div align="center">
+<img src="https://i.pinimg.com/1200x/06/aa/4e/06aa4e3ff6eab5eecad52378a694114a.jpg" width="600" />
+</div>
 <!-- Contribution Graph Pac-Man -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kherahimanshu255/kherahimanshu255/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kherahimanshu255/kherahimanshu255/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kherahimanshu255/kherahimanshu255/output/pacman-contribution-graph.svg">
-</picture>
+
 
 <!-- Animated Intro -->
 <div align="center">
